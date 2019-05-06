@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Fee Portal</string>
+
+    <string name="title_activity_home">Vemana Institute of Technology</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="title_activity_signin">Sign In</string>
+
+    <string name="title_activity_register">Register</string>
+    <string-array name="branch">
+
+        <item>Select Branch</item>
+        <item>Computer Science and Engineering</item>
+        <item>Electrical Engineering</item>
+        <item>Civil Engineering</item>
+        <item>Information Technology</item>
+        <item>Telecom Engineering</item>
+        <item>Mechanical Engineering</item>
+
+    </string-array>
+
+    <string-array name="spyear">
+
+        <item>Year</item>
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+
+    </string-array>
+
+    <string-array name="MBA_Year">
+        <item>Year</item>
+        <item>MBA I</item>
+        <item>MBA II</item>
+    </string-array>
+
+    <string-array name="PUC_Year">
+        <item>Year</item>
+        <item>PUC I</item>
+        <item>PUC II</item>
+    </string-array>
+
+    <string-array name="semester">
+        <item>Sem</item>
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+        <item>5th</item>
+        <item>6th</item>
+        <item>7th</item>
+        <item>8th</item>
+
+    </string-array>
+
+    <string-array name="semester4">
+        <item>Sem</item>
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+    </string-array>
+
+    <string name="title_activity_menu">Menu</string>
+
+    <string name="my_profile">MY PROFILE</string>
+    <string name="pay_fees">PAY FEES</string>
+    <string name="check_fee_details">CHECK FEE DETAILS</string>
+    <string name="change_password">CHANGE PASSWORD</string>
+    <string name="log_out">Log Out</string>
+
+    <string name="title_activity_homepage">Home Page</string>
+
+    <string name="title_activity_myprofile">Profile</string>
+
+    <string name="title_activity_changepswd">Change Password</string>
+
+    <string name="title_activity_payfee">Pay Fees</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string name="access_code">Access Code</string>
+    <string name="pay_button">Proceed to Pay</string>
+    <string name="merchant_id">Merchant Id</string>
+    <string name="currency">Currency</string>
+    <string name="amount">Amount</string>
+    <string name="redirect_url">Redirect Url</string>
+    <string name="cancel_url">Cancel Url</string>
+    <string name="rsa_url">RSA Key Url</string>
+
+    <string name="title_activity_hostel">hostel</string>
+    <string name="title_activity_clg_fee">College</string>
+
+    <string name="title_activity_hostel_fee">Hostel</string>
+
+    <string name="title_activity_rentdetails">Details</string>
+
+    <string name="title_activity_messfee">Mess</string>
+
+    <string name="Rs">\u20B9 Enter Amount</string>
+    <string name="title_activity_drawer">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="ok" />
+    <string name="title_activity_main">Home</string>
+    <string name="title_checkfee">Check Fee</string>
+    <string name="title_myprofile">My Profile</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_paytm">paytm</string>
+</resources>

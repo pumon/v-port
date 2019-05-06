@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "868737239618",
+    "firebase_url": "https://vport111-dca76.firebaseio.com",
+    "project_id": "vport111-dca76",
+    "storage_bucket": "vport111-dca76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868737239618:android:9f1a2810c5bae244",
+        "android_client_info": {
+          "package_name": "com.project.esh_an.portal1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868737239618-q5lvi6lhmd7d1qj0i908i3ntbod26ild.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-i7yPQnUh0kvZs5-DRWjoHnND6I4KCrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868737239618-q5lvi6lhmd7d1qj0i908i3ntbod26ild.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

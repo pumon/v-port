@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation">
+
+        <item
+            android:id="@+id/myprofile"
+            android:icon="@drawable/ic_profile"
+            android:title="My Profile" />
+        <item
+            android:id="@+id/payfee"
+            android:icon="@drawable/ic_payfee"
+            android:title="Pay Fee" />
+        <item
+            android:id="@+id/feedetails"
+            android:icon="@drawable/ic_check_fee"
+            android:title="Check Fee Details" />
+        <item
+            android:id="@+id/chpswd"
+            android:icon="@drawable/ic_change_pswd"
+            android:title="Change Password" />
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Logout" />
+
+        </menu>
+    </item>
+
+</menu>
